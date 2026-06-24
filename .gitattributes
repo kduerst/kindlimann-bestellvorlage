@@ -1,0 +1,7 @@
+*.xlsm binary
+*.xlsx binary
+*.xlsb binary
+*.pdf binary
+*.ps1 text
+*.psd1 text
+*.md text

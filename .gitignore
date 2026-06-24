@@ -1,0 +1,9 @@
+# Office temporary files
+~$*
+*.tmp
+
+# Exported order PDFs should not be versioned.
+Bestellt/*.pdf
+
+# Keep local/generated clutter out of Git.
+*.log
